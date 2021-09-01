@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0541e5aa11304f24085ee30e87c6c207
+  - enabled: 1
+    path: Assets/Scenes/Notepad.unity
+    guid: 5813f9f5c523a354ba0e9fcde2ecec1e
+  - enabled: 1
+    path: Assets/Scenes/Level 0.unity
+    guid: ab24c6d9d47776b47808a98160181a34
+  - enabled: 1
+    path: Assets/Scenes/Notepad 1.unity
+    guid: f70bd4dfefe4e5543a29959f3d35c80e
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 2366365daff7ca9478b59472327c6dd5
+  - enabled: 1
+    path: Assets/Scenes/Notepad 2.unity
+    guid: 58c7cb1ef9558574d845d3577952657a
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 5a4ef734ac8be2748bee3fda82987031
+  - enabled: 1
+    path: Assets/Scenes/Notepad 3.unity
+    guid: dad933513c480ed4091ccb5c88b185ae
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 7cdc18994cd1e21488b7f42449cee99b
+  - enabled: 1
+    path: Assets/Scenes/Notepad 4.unity
+    guid: 1c8b1b902f190aa468e4eb16ff4ea3b8
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: f5f2a5c8163d9f044972f2698ffa95d9
+  - enabled: 1
+    path: Assets/Scenes/Notepad 5.unity
+    guid: f560410671bbeb643bc0aaaf070a39df
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 7cb820d17cfd5bd4fbff25d80721b96a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Graduation.unity
+    guid: 1c44a2f3488333d4583227b0502a428b
+  - enabled: 1
+    path: Assets/Scenes/GetCaught.unity
+    guid: c3344ca172a0c444792cac46a7017d65
+  - enabled: 0
+    path: Assets/Scenes/Sample.unity
+    guid: a82ff3a6c8930cb4fae8f9de30f4867b
+  m_configObjects: {}
